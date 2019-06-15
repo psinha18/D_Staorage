@@ -1,2 +1,3 @@
 Learning the basics of Git & GitHub
 Added text from UI in master
+from Git
